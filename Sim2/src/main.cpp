@@ -18,7 +18,7 @@
 #include <WiFi.h>
 
 int LED = 13;
-int _delay = 100;
+int _delay = 3000;
 
 void setup() {
   Serial.begin(115200);
